@@ -1,0 +1,14 @@
+protobuf<=3.9.2
+wheel
+openai
+scikit-learn
+joblib
+streamlit
+keras
+numpy
+tensorflow
+Pillow
+pandas
+requests
+nltk
+pickle5
